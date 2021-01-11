@@ -5,7 +5,7 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-tca-mplab-mcc",
         "version": "1.0.0",
-        "displayName": "Getting Started with Timer/Counter Type A (TCA) Examples (MPLAB® X)",
+        "displayName": "Getting Started with Timer/Counter Type A (TCA)",
         "projectName": "avr128da48-getting-started-with-tca-mplab-mcc",
         "shortDescription": "This repository contains examples of MPLAB® Code Configurator (MCC) generated source code for Timer/Counter Type A (TCA) as described in TB3217-Getting Started with Timer/Counter Type A (TCA) document.",
         "ide": {
@@ -50,7 +50,6 @@
             "Getting Started",
             "Interrupts",
             "Periodical Signal"
-
         ],
 		"additionalData": {
 			"longDescription": {
