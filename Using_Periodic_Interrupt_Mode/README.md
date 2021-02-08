@@ -6,8 +6,8 @@ This use case shows how to initialize the Timer/Counter Type A (TCA) in Single m
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3217-Getting Started with Timer/Counter Type A (TCA)](http://ww1.microchip.com/downloads/en/Appnotes/TB3217-Getting-Started-with-TCA-90003217A.pdf)
-- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA28)
+- [TB3217 - Getting Started with Timer/Counter Type A (TCA)](https://ww1.microchip.com/downloads/en/Appnotes/TB3217-Getting-Started-with-TCA-DS90003217.pdf)
+- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
 
